@@ -10,13 +10,13 @@
 - 🏦 I'm Backend Engineering Lead work for startup in Finland 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.c**, **.py**,  **.sql**
-- 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann
+- 📖 I am currently studying
 - 💬 Talk to me about C++, silicon valley & startups
-- ⚡ Fun fact: Je connais un peu le français
+- ⚡ Fun fact: photographer
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
