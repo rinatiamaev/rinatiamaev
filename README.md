@@ -7,10 +7,9 @@
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm Backend Engineering Lead work for startup in Finland 
+- 📖 I am currently studying Backend Engineering in Finland 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.c**, **.py**,  **.sql**
-- 📖 I am currently studying
 - 💬 Talk to me about C++, silicon valley & startups
 - ⚡ Fun fact: photographer
 - 🧑‍💻 Tech I work on :
