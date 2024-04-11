@@ -11,7 +11,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.c**, **.py**,  **.sql**
 - 💬 Talk to me about C++, silicon valley & startups
-- ⚡ Fun fact: photographer
+- ⚡ Fun fact: mechanical engineer
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
