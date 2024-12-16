@@ -9,7 +9,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 📖 I am currently studying Full-Stack Development in HIVE coding school (Finland) 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily: **.c**, **.py**,  **.sql**
+- 💻 I use daily: **.c**, **.js**
 - 💬 Talk to me about C++, silicon valley & startups
 - ⚡ Fun fact: mechanical engineer
 - 🧑‍💻 Tech I work on :
