@@ -10,8 +10,8 @@
 - 📖 I am currently studying Full-Stack Development in HIVE coding school (Finland) 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.c**, **.js**
-- 💬 Talk to me about C++, silicon valley & startups
-- ⚡ Fun fact: mechanical engineer
+- 💬 Talk to me about silicon valley & startups
+- ⚡ Fun fact: mechanical engineer, photographer
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
