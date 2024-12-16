@@ -12,7 +12,7 @@
 - 💻 I use daily: **.c**, **.js**
 - 💬 Talk to me about silicon valley & startups
 - ⚡ Fun fact: mechanical engineer, photographer
-- 🧑‍💻 Tech I work on :
+- 🧑‍💻 Tech I work on and 📜Cert:
 
 <p align="center">
       <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="java" width="65" height="65"/> 
@@ -26,8 +26,9 @@
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <a href="https://www.credly.com/badges/d9b5a5bf-f2bc-4dd7-9642-20100049342a/public_url" target="GitHub Foundations Rinat Iamaev">
+            <img src="https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="65" height="65"/>
+       </a>
 </p>
 
-<!--START_SECTION:badges-->
 
-<!--END_SECTION:badges-->
